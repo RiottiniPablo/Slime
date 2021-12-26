@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9211ef45b5f5cf0468221a13e2ff435c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bakery Home Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 523077b294569f648911e088b36ce760, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
